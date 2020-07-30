@@ -24,6 +24,6 @@ I am familiar with including **JavaScript**, **TypeScript**, and **ReactJS** ,**
 
 <a href=https://github.com/TesseractCoding/NeoAlgo>
    <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
-</a>
+</a><br>
 ## 📕 Latest Blog Posts
 
