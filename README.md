@@ -26,9 +26,5 @@ I am familiar with including **JavaScript**, **TypeScript**, and **ReactJS** ,**
    <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
 </a>
 
-<br>
-
-
-<br>
 ## 📕 Latest Blog Posts
 
