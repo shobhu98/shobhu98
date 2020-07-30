@@ -9,9 +9,9 @@ solutions about JavaScript, Node.JS, Java and React. I am about to start a Youtu
 ## 📬 Get in touch
 
 
-- Blog: [https://medium.com/@shobhit978tiwari][4]
-- Web: [https://shobhittiwari.netlify.com][1]
-- LinkedIn: [https://www.linkedin.com/in/shobhit978tiwari][2]
+- Blog: [https://medium.com/@shobhit978tiwari]
+- Web: [https://shobhittiwari.netlify.com]
+- LinkedIn: [https://www.linkedin.com/in/shobhit978tiwari]
 
 
 
