@@ -2,7 +2,7 @@
 
 Hey 👋🏻,
 
-I am Software and Web Application Engineer from India. I also write blog posts and open source
+I am Software and Web Application Developer from India. I also write blogs  and open source
 solutions about JavaScript, Node.JS, Java and React. I am about to start a Youtube channel where I will add videos on Software related stuff.
 
 
@@ -18,7 +18,7 @@ solutions about JavaScript, Node.JS, Java and React. I am about to start a Youtu
 ## 🌳 My Digital Garden
 
 You can find my blog posts on  [https://medium.com/@shobhit978tiwari]. I write about software and web applications development and also Programming Languages. 
-I am familiar with including **JavaScript**, **TypeScript**, and **ReactJS** ,**MERN**, **Java**,**MYSQL**.
+I am familiar with including **JavaScript**, **TypeScript**, and **ReactJS** ,**MERN**, **Java**,**MYSQL**,**Git**,**Ansible**.
 
 ## Present Badges
 
